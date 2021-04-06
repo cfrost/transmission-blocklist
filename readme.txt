@@ -2,7 +2,7 @@ transmission blocklist
 
 release
 
-- https://github.com/sayomelu/transmission-blocklist/raw/release/blocklist.gz 
+- https://github.com/cfrost/transmission-blocklist/raw/release/blocklist.gz 
 
 thank
 
